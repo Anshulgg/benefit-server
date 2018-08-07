@@ -32,36 +32,63 @@ io.use(socketioJwt.authorize({
 
 io.on('connection', (socket) => {
     var addedUser = false;
-    console.log('hello! ', socket.decoded_token.name);
-    console.log('hello! ');
+    console.log('hello! name : ', socket.decoded_token.name);
+    // console.log(socket.handshake.query);
+
+    let roomName = socket.handshake.query.room;
+    if (!roomName) {
+        roomName = socket.decoded_token.id;
+        // console.log(socket.handshake.query.room , socket.decoded_token.id);
+    }
+    socket.join(roomName);
+
+
+    socket.on('room', (room) => {
+        socket.leave(roomName);
+        socket.join(room);
+        roomName = room;
+        console.log("Changed Room to : ", roomName);
+    });
 
     // when the client emits 'new message', this listens and executes
     socket.on('new message', (data) => {
         // we tell the client to execute 'new message'
         console.log(data);
-        console.log(socket.username);
+        // let room;
+        // if (data.author === 0) {
+        //     room = socket.decoded_token.id;
+        // } else {
+        //     room = data.room;
+        // }
+        // console.log(room);
+        // console.log(socket.decoded_token.id);
+
+        console.log("Room Name : ", roomName);
 
         let message = new Chat({
             author: data.author,
             message: data.message,
             timestamp: data.timestamp,
-            room: socket.decoded_token.id
+            room: roomName
         });
         message.save().then(saved => {
-            socket.join(`${socket.decoded_token.id}`);
-            socket.broadcast.to(`${socket.decoded_token.id}`).emit('new message', {
+            // socket.join(`${socket.decoded_token.id}`);
+            socket.broadcast.in(roomName).emit('new message', {
                 message: data.message,
-                author: data.author
+                author: data.author,
+                timestamp: data.timestamp
             });
-            io.in(`${socket.decoded_token.id}`).emit('new message', {
-                message: Math.random().toString(36).substring(7),
-                author: 1
-            });
-            io.in(`${socket.decoded_token.id}`).emit('new message', {
 
-                message: Math.random().toString(36).substring(7),
-                author: 2
-            });
+
+            // io.in(`${socket.decoded_token.id}`).emit('new message', {
+            //     message: Math.random().toString(36).substring(7),
+            //     author: 1
+            // });
+            // io.in(`${socket.decoded_token.id}`).emit('new message', {
+            //
+            //     message: Math.random().toString(36).substring(7),
+            //     author: 2
+            // });
         });
 
     });
