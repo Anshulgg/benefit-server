@@ -27,6 +27,7 @@
     "mongoose-auto-increment": "^5.0.1",
     "mongoose-searchable": "^1.0.0",
     "morgan": "^1.7.0",
+    "papaparse": "^4.6.0",
     "request": "^2.87.0",
     "request-promise": "^4.2.2",
     "socket.io": "^2.1.1",

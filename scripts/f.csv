@@ -1,0 +1,301 @@
+Sno,Exercise Name,Exercise Intensity,METS,Reps/Time,Time Taken,Base,Rep Format,Type,Flow,Video-A,Video-B
+44,WIDE PUSH UP,Moderate,5,4,8,REP,Single Movement,Dumbell/Barbell/Gym,repetitive,1,0
+42,OVER HEAD SLAMS,Moderate,3.5,3,6,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+12,BARBELL REVERSE LUNGE,High,6,3,20,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+17,ELEVATED GLUTE BRIDGES,Moderate,3.5,4,15,REP,Single Movement,Body Weight,follow,0,0
+47,STACKED PUSH UP,Moderate,5,3,20,REP,Single Movement,Body Weight,repetitive,1,0
+1,BARBELL BENT ROW,Moderate,5,4,7,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+2,BARBELL CURL,Moderate,3.5,4,19,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+3,BARBELL REVERSE CURL,Moderate,3.5,4,18,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+4,BARBELL CALVES RAISE,Moderate,3.5,4,14,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+5,BARBELL DEAD LIFT (LOWER BACK),High,6,4,19,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+6,BARBELL GLUTE BRIDGE,Moderate,3.5,4,15,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+7,BARBELL KNEELING ROLL OUT,High,6,4,22,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+8,POWER CLEAN,High,6,4,21,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+9,HANG CLEAN,High,6,4,15,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+10,BARBELL DEEP SQUAT,High,6,4,13,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+11,BARBELL FOWARD LUNGE,High,6,4,35,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+13,BARBELL SHRUG,Moderate,3.5,4,14,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+14,FLAT BENCH PRESS (BARBELL),High,6,4,11,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+15,LYING BARBELL TRICEPS EXTENSION,Moderate,3.5,4,14,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+16,CLOSE GRIP BENCH PRESS (TRICEPS),Moderate,3.5,4,14,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+17,Elevated Glute Bridges,Moderate,5,4,15,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+18,Seated shoulder Press (Barbell),High,6,4,9,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+19,Bulgarian Split Squat (Dumbbell),High,6,3,19,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+20,Seated Biceps Curl (Dumbbell),Moderate,3.5,4,19,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+21,Incline Chest Press (Dumbbell),High,6,4,9,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+22,Flat Chest Fly (Dumbbell),Moderate,5,4,16,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+23,Lying Pullover (Dumbbell),Moderate,5,4,21,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+24,One Arm Chest Press(Dumbbell),High,6,3,18,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+25,Seated Shoulder Press (Dumbbell),High,6,4,12,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+26,Wrist  Curl Extention ( Dumbbell),Easy,2.8,4,12,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+27,Wrist  Curl Flexion ( Dumbbell ),Moderate,2.8,4,10,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+28,Dumbbell Renegade Row,High,6,3,12,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+29,Hammer Curl,Moderate,3.5,4,19,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+30,Side Lateral Rasie ( Dumbbell ),Moderate,3.5,4,11,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+31,Dumbbell Front Raise,Moderate,3.5,4,10,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+32,Dumbbell Diognal Raise,Moderate,3.5,3,20,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+33,Lateral Lunge (Dumbbell),High,6,3,21,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+34,Reverse Lunge With Rotation (Dumbbell),High,6,4,20,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+35,Goblet Squat,Moderate,5,4,11,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+36,Dumbbell Shrugs,Moderate,3.5,4,14,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+37,BARBELL PUSH PRESS,High,6,4,15,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+38,STANDING SHOULDER PRESS (BARBELL),High,6,4,11,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+39,Squat to overhead Press (Barbell),High,6,4,20,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+40,Rotational Over Head Press (Dumbbell),Moderate,5,4,20,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+41,Squat to overhead Press (Dumbbell),High,6,4,20,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+43,Squat (Medicine Ball),Moderate,5,4,10,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+45,Push Up to Superman,Moderate,5,5,36,REP,Single Movement,Body Weight,repetitive,1,0
+46,Staggered Hands Pushup,Moderate,5,4,15,REP,Double Movement,Body Weight,repetitive,1,1
+48,SIDE TO SIDE LUNGE,High,6,3,7,REP,Single Movement,Body Weight,repetitive,1,0
+49,MOUNTAIN CLIMBER,High,6,4,17,REP,Single Movement,Body Weight,repetitive,1,0
+50,PLANK PUNCHES,Moderate,5,4,17,REP,Single Movement,Body Weight,repetitive,1,0
+51,UP AND DOWN PLANKS,Moderate,5,4,18,REP,Single Movement,Body Weight,repetitive,1,0
+52,SINGLE HAND PLANK,High,6,10,20,TIME,Double Movement,Body Weight,repetitive,1,1
+53,CLOSE GRIP PUSH UPS,Moderate,5,4,11,REP,Single Movement,Body Weight,repetitive,1,0
+54,LYING TOE TOUCH CRUNCHES,Moderate,3.5,4,9,REP,Single Movement,Body Weight,repetitive,1,0
+55,HIGH CRUNCHES,Moderate,3.5,4,11,REP,Single Movement,Body Weight,repetitive,1,0
+56,RAISED LEG CRUNCHES,Moderate,3.5,5,11,REP,Single Movement,Body Weight,repetitive,1,0
+57,HANDS OVER HEAD SIT UPS,Moderate,3.5,5,18,REP,Single Movement,Body Weight,repetitive,1,0
+58,MICRO EXPANSIONS (CHEST),Easy,2.5,12,12,TIME,Single Movement,Body Weight,repetitive,1,0
+59,PUSH UP WITH SINGLE LEG RAISE,Moderate,5,4,23,REP,Double Movement,Body Weight,repetitive,1,1
+60,STANDING CABLE CRUNCH,Moderate,3.5,5,10,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+61,SEATED CABLE ROW,Moderate,5,4,11,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+62,KNEELING LAT-PULL DOW,Moderate,5,4,11,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+63,WIDE GRIP MID ROW (CABLE),Moderate,5,4,12,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+64,STANDING CABLE ROW,Moderate,5,4,11,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+65,STANDING STRAIGHT ARM PULL DOWN (CABLE),Moderate,5,4,10,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+66,STANDING CABLE FLY,Moderate,3.5,4,12,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+67,SEATED CHEST PRESS (CABLE),Moderate,5,4,9,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+68,SEATED DECLINE CHEST PRESS (CABLE),Moderate,5,4,9,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+69,SEATED INCLINE CHEST PRESS (CABLE),Moderate,5,4,9,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+70,SINGLE ARM CHEST PRESS (CABLE),Moderate,3.5,4,18,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+71,STANDING DECLINE FLY (CABLE),Moderate,3.5,4,9,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+72,STANDING INCLINE FLY (CABLE),Moderate,3.5,4,9,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+73,STANDING REVERSE FLY (CABLE),Moderate,3.5,4,9,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+74,SINGLE HAND SIDE LATERAL (CABLE),Moderate,3.5,4,20,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+75,STANDING TRUNK ROTATION (CABLE),High,6,4,20,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+76,HALF KNEELING LIFT (CABLE),High,6,4,20,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+77,NEELING WOOD CHOP (CABLE),High,6,4,20,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+78,TRICEP PUSH DOWN (BAND),Moderate,3.5,4,8,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+79,ROPE PUSH DOWN (CABLE),Moderate,3.5,4,9,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+80,CABLE UP RIGHT ROW,Moderate,5,4,9,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+81,STANDING TRICEP PUSH DOWN (CABLE),Moderate,3.5,4,10,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+82,LAT PULL DOWN FRONT,High,6,4,12,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+83,CLOSE GRIP REVERSE PULL DOWN,High,6,4,12,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+84,CLOSE GRIP PULL DOWN,High,6,4,12,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+85,V GRIP PULL DOWN,High,6,4,12,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+86,SINGLE HAND PULL DOWN (HAMMER GRIP),High,6,4,21,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+87,LEG EXTENSION,High,6,7,17,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+88,LEG CURL,High,6,4,10,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+89,CABLE PUNCHES,Moderate,3.5,4,19,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+90,STANDING WOOD CHOP (CABLE),High,6,4,20,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+91,STANDING STEP WOOD CHOP (CABLE),High,6,4,29,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+92,CABLE INTERNAL ROTATION (ROTATOR CUFF),Easy,2.8,4,20,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+93,ONE ARM STANDING CABLE ROW,Moderate,5,4,16,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+94,LEG PRESS WITH CLOSE LEGS,High,6,4,9,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+95,LEG PRESS WITH WIDE LEGS,High,6,4,10,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+96,SINGLE LEG PRESS,High,6,4,26,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+97,HACK SQUAT,High,6,4,12,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+98,DONKEY KICK,Moderate,5,4,19,REP,Double Movement,Body Weight,repetitive,1,1
+99,SINGLE ARM SIGLE LEG ROMAINIAN DEADLIFT,High,6,4,19,REP,Double Movement,Dumbell/Barbell/Gym,repetitive,1,1
+100,STANDING GATE OPENER,Moderate,3.5,4,20,REP,Double Movement,Body Weight,repetitive,1,1
+101,CATTERPILLAR WALK,High,6,4,21,REP,Single Movement,Body Weight,repetitive,1,0
+102,BURPEES WITHOUT PUSH UPS,High,6,4,15,REP,Single Movement,Body Weight,repetitive,1,0
+103,VERTICAL JUMP AND REACH,Moderate,5,4,9,REP,Single Movement,Body Weight,repetitive,1,0
+104,JUMPING JACKS,Moderate,3.5,4,7,REP,Single Movement,Body Weight,repetitive,1,0
+105,WORRIOR POSE,High,5,1,34,REP,Single Movement,Body Weight,repetitive,1,0
+106,SQUAT,Moderate,5,4,10,REP,Single Movement,Body Weight,repetitive,1,0
+107,HIGH SQUAT,Moderate,5,4,12,REP,Single Movement,Body Weight,repetitive,1,0
+108,RUSSIAN TWIST (MEDICINE BALL),Moderate,5,4,14,REP,Single Movement,Dumbell/Barbell/Gym,repetitive,1,0
+109,KNEE UP RAISE,Moderate,3.5,4,12,REP,Single Movement,Body Weight,repetitive,1,0
+110,REVERSE CRUNCHES,Moderate,3.5,4,10,REP,Single Movement,Body Weight,repetitive,1,0
+111,BICYLE CRUNCHES,Moderate,5,4,11,REP,Single Movement,Body Weight,repetitive,1,0
+112,SUPINE DEAD BUG,Moderate,5,4,23,REP,Single Movement,Body Weight,repetitive,1,0
+113,LYING KNEE UPS,Moderate,3.5,4,14,REP,Single Movement,Body Weight,repetitive,1,0
+114, HEEL TOUCH CRUNCHES,Moderate,5,4,9,REP,Single Movement,Body Weight,repetitive,1,0
+115, KNEE UP CRUNCHES,Moderate,3.5,4,10,REP,Single Movement,Body Weight,repetitive,1,0
+116,SCISSOR (VERTICAL),Moderate,3.5,4,11,REP,Single Movement,Body Weight,repetitive,1,0
+117,SCISSOR (HORIZONTAL),Moderate,3.5,4,14,REP,Single Movement,Body Weight,repetitive,1,0
+118,KNEELING PUSH UPS,Moderate,3.5,4,9,REP,Single Movement,Body Weight,repetitive,1,0
+119,IYTWO (BACK),High,6,4,30,REP,Single Movement,Body Weight,repetitive,1,0
+120,RUNNER LUNGE,High,6,4,20,REP,Single Movement,Body Weight,repetitive,1,0
+121,DIRTY DOG,Moderate,3.5,4,15,REP,Double Movement,Body Weight,repetitive,1,1
+122,SINGLE LEG BRIDGES,Moderate,5,4,25,REP,Double Movement,Body Weight,repetitive,1,1
+123,HIP FLEXOR STRETCH (BENCH),Easy,2.5,1,28,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+124,SEATED STRADDLE STRETCH,Easy,2.5,1,17,REP,Single Movement,Body Weight,follow,0,0
+125,SPINE HAMSTRING STRETCH,Easy,2.5,1,30,REP,Single Movement,Body Weight,follow,0,0
+126,SEATED SINGLE LEG HAMSTRING STRETCH,Easy,2.5,1,30,REP,Single Movement,Body Weight,follow,0,0
+127,SEATED STRADDLE HAMSTRING STRETCH,Easy,2.5,1,30,REP,Single Movement,Body Weight,follow,0,0
+128,SEATED TOE TOUCH STRETCH,Easy,2.5,1,15,REP,Single Movement,Body Weight,follow,0,0
+129,CHILD POSE,Easy,2.5,1,19,REP,Single Movement,Body Weight,follow,0,0
+130,COBRA STRETCH,Easy,2.5,1,17,REP,Single Movement,Body Weight,follow,0,0
+131,PLANK SAW,Moderate,5,10,10,TIME,Single Movement,Body Weight,follow,1,0
+132,SPOT HOPS,Easy,2.8,14,14,TIME,Single Movement,Body Weight,follow,1,0
+133,SIDE LYING HIP ADDUCTION,Moderate,3.5,4,24,REP,Double Movement,Body Weight,repetitive,1,1
+134,CAT AND DOG STRETCH,Easy,2.5,4,21,REP,Single Movement,Body Weight,repetitive,1,0
+135,SUPINE PELVIC TILT,Easy,2.5,4,21,REP,Single Movement,Body Weight,repetitive,1,0
+136,PLANK ARM RAISES,Moderate,5,4,12,REP,Single Movement,Body Weight,repetitive,1,0
+137,PLANK TO LUNGE,Moderate,5,2,17,REP,Single Movement,Body Weight,repetitive,1,0
+138,PLANK JACKS,Moderate,5,5,8,REP,Single Movement,Body Weight,repetitive,1,0
+139,PLANK KNEE INS,Moderate,5,4,17,REP,Single Movement,Body Weight,repetitive,1,0
+140,PLANK LEG RAISES,Moderate,5,4,13,REP,Single Movement,Body Weight,repetitive,1,0
+141,PLANK TWIST,Moderate,5,5,20,REP,Single Movement,Body Weight,repetitive,1,0
+142,PLANK STEP OUTS,High,6,4,12,REP,Single Movement,Body Weight,repetitive,1,0
+143,PLANK ROTATIONS,High,6,3,20,REP,Single Movement,Body Weight,repetitive,1,0
+144,SINGLE LEG HOLD,Moderate,5,20,20,TIME,Single Movement,Body Weight,follow,0,0
+145,SIDE LYING HIP ABDUCTION,Moderate,3.5,4,20,REP,Double Movement,Body Weight,follow,1,1
+146,SIDE LYING QUADRICEPS STRETCH,Easy,2.5,1,20,REP,Single Movement,Body Weight,follow,0,0
+147,BENT KNEE BICEPS STRETCH,Easy,2.5,1,20,REP,Single Movement,Body Weight,follow,0,0
+148,STANDING SIDE BEND,Easy,2.8,2,14,REP,Single Movement,Body Weight,follow,1,10
+149,TRICEP STRETCH,Easy,2.5,1,22,REP,Single Movement,Body Weight,follow,0,0
+150,STEP UP,Moderate,5,2,16,REP,Double Movement,Dumbell/Barbell/Gym,repetitive,1,1
+151,90 LAT STRETCH,Easy,2.5,1,16,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+152,STABILITY BALL EXTENTION,Moderate,5,4,10,REP,Single Movement,Dumbell/Barbell/Gym,repetitive,1,0
+153,KNEELING STABILITY BALL ROLL OUT,Moderate,5,4,12,REP,Single Movement,Dumbell/Barbell/Gym,repetitive,1,0
+154,KNEELING LAT STRETCH,Easy,2.5,1,20,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+155,STANDING CALVES RAISE,Moderate,3.5,6,11,REP,Single Movement,Body Weight,repetitive,1,0
+156,SEATED BENT KNEE BICEPS STRETCH,Easy,2.5,1,17,REP,Single Movement,Body Weight,follow,0,0
+157,STANDING HIP ABDUCTION,Moderate,3.5,4,14,REP,Double Movement,Body Weight,repetitive,1,1
+158,STANDING HIP ADDUCTION,Moderate,3.5,4,19,REP,Double Movement,Body Weight,repetitive,1,1
+159,LEG CURL WITH ANKLE WEIGHTS,Moderate,3.5,4,20,REP,Double Movement,Dumbell/Barbell/Gym,repetitive,1,1
+160,LEG EXTENSION WITH ANKLE WEIGHTS,Moderate,3.5,4,20,REP,Double Movement,Dumbell/Barbell/Gym,repetitive,1,1
+161, STANDING HEYBALER (MEDICINE BALL),Moderate,5,4,19,REP,Double Movement,Dumbell/Barbell/Gym,repetitive,1,1
+162, KNEELING HEYBALER (MEDICINE BALL),Moderate,5,4,16,REP,Double Movement,Dumbell/Barbell/Gym,repetitive,1,1
+163,MODIFIED SIDE PLANK DIP,Moderate,5,3,20,REP,Double Movement,Body Weight,repetitive,1,1
+164,BRIDGES TAP,Moderate,5,4,20,REP,Single Movement,Body Weight,repetitive,1,1
+165,BURPEE WITH ROTATIONS,High,6,2,16,REP,Single Movement,Body Weight,repetitive,1,1
+166,FOUR POINT EXTENSION,Moderate,5,4,17,REP,Double Movement,Body Weight,repetitive,1,1
+167,SUPINE BALL PASS,High,6,2,17,REP,Single Movement,Dumbell/Barbell/Gym,repetitive,1,1
+168,SEATED BUTTERFLY STRETCH,Easy,2.8,8,8,TIME,Single Movement,Body Weight,repetitive,1,0
+169,SEATED CROSS CRUNCHES,Moderate,3.5,5,6,REP,Single Movement,Body Weight,repetitive,1,0
+170,GET UPS AND REACH,High,6,3,17,REP,Single Movement,Body Weight,repetitive,1,0
+171,REVERSE PLANK KICKS,High,6,3,8,REP,Single Movement,Body Weight,repetitive,1,0
+172,HALF JACKS,Moderate,3.5,13,12,REP,Single Movement,Body Weight,repetitive,1,0
+173,PLANK TO SIDE PLANK,Moderate,5,5,20,REP,Single Movement,Body Weight,repetitive,1,0
+174,SQUAT WITH DIAGONAL STEP BACK,Moderate,5,4,18,REP,Single Movement,Body Weight,repetitive,1,0
+175,STANDING TORSO ROTATIONS,Moderate,3.5,4,18,REP,Single Movement,Body Weight,repetitive,1,0
+176,STABILITY BALL CRUNCHES,Moderate,3.5,4,11,REP,Single Movement,Dumbell/Barbell/Gym,repetitive,1,0
+177,LUNGE WITH OVER HEAD PRESS WITH MEDICINE BALL,High,6,4,21,REP,Single Movement,Dumbell/Barbell/Gym,repetitive,1,1
+178,CRUNCHES,Moderate,3.5,5,11,REP,Single Movement,Body Weight,repetitive,1,0
+179,BUTTERFLY SIT-UPS,Moderate,5,4,12,REP,Single Movement,Body Weight,repetitive,1,0
+180,TWO KNEE TWIST,Moderate,3.5,4,20,REP,Single Movement,Body Weight,repetitive,1,0
+181,L SHAPE SIT-UPS,Moderate,5,4,11,REP,Single Movement,Body Weight,repetitive,1,0
+182,LEG RAISES,Moderate,5,4,12,REP,Single Movement,Body Weight,repetitive,1,0
+183,LYING LEG CIRCLE,Moderate,5,2,16,REP,Single Movement,Body Weight,repetitive,1,0
+184,SIT UPS,Moderate,5,4,11,REP,Single Movement,Body Weight,repetitive,1,0
+185,RUSSIAN TWIST,Moderate,5,5,13,REP,Single Movement,Body Weight,repetitive,1,0
+186,LYING KNEE UP TAPS,Moderate,3.5,4,22,REP,Single Movement,Body Weight,repetitive,1,0
+187,WINDSHIELD WIPERS,Moderate,5,2,17,REP,Single Movement,Body Weight,repetitive,1,0
+188,CHEST EXPANSION,Easy,2.8,4,10,REP,Single Movement,Body Weight,repetitive,1,0
+189,SIDE ARM RAISES,Easy,2.5,6,7,REP,Single Movement,Body Weight,repetitive,1,0
+190,RAISED ARM CIRCLES,Easy,2.5,10,11,REP,Single Movement,Body Weight,repetitive,1,0
+191,HIP HINGE (WITH STICK),Easy,2.8,4,20,REP,Single Movement,Dumbell/Barbell/Gym,repetitive,1,0
+192,BRIDGES,Moderate,3.5,4,18,REP,Single Movement,Body Weight,repetitive,1,0
+193,DEEP SQUAT TO HAMSTRING STRETCH,Moderate,5,5,20,REP,Single Movement,Body Weight,repetitive,1,0
+194,SUMO SQUATS,Moderate,5,5,18,REP,Single Movement,Body Weight,repetitive,1,0
+195,REVERSE BOUNDS- BACK KICKS,Moderate,5,4,8,REP,Single Movement,Body Weight,repetitive,1,0
+196,SIDE STEP SIDE LUNGE,Moderate,5,2,14,REP,Double Movement,Body Weight,repetitive,1,1
+197,STEAM ENGINE,Moderate,5,5,15,REP,Single Movement,Body Weight,repetitive,1,0
+198,SUPER MAN,Moderate,5,3,20,REP,Single Movement,Body Weight,repetitive,1,0
+199,ALTERNATING SUPER MAN,Moderate,5,2,19,REP,Single Movement,Body Weight,repetitive,1,0
+200,ARMY CRAWL,High,6,2,12,REP,Single Movement,Body Weight,repetitive,1,0
+201,SIDE PLANK HIP DIP,High,6,3,12,REP,Double Movement,Body Weight,repetitive,1,1
+202,CROSS BODY MOUNTAIN CLIMBERS,High,6,3,12,REP,Single Movement,Body Weight,repetitive,1,0
+203,TABLE BRIDGE,Moderate,5,4,14,REP,Single Movement,Body Weight,repetitive,1,0
+204,TABLE BRIDGE REACH UPS,High,6,4,20,REP,Single Movement,Body Weight,repetitive,1,0
+205,APE HOPS,High,6,3,10,REP,Single Movement,Body Weight,repetitive,1,0
+206,PLANK SHOULDER TAPS,Moderate,5,5,10,REP,Single Movement,Body Weight,repetitive,1,0
+207,PLANK ROTATION WITH LEG TAPS,Moderate,5,4,20,REP,Single Movement,Body Weight,repetitive,1,0
+208,PLANK THIGH TAPS,Moderate,5,4,12,REP,Single Movement,Body Weight,repetitive,1,0
+209,SIDE LYING HIP ABDUCTION,Moderate,3.5,4,16,REP,Single Movement,Body Weight,repetitive,1,1
+210,SIDE LYING RAISED LEG CIRCLES,Moderate,3.5,2,20,REP,Single Movement,Body Weight,repetitive,1,1
+211,DYNAMIC LUNGES,High,6,2,15,REP,Single Movement,Body Weight,repetitive,1,0
+212,BUTT KICKS,Moderate,5,10,10,TIME,Single Movement,Body Weight,repetitive,1,0
+213,PLANK - ALTERNATE ARM AND LEG RAISES,Moderate,5,4,12,REP,Single Movement,Body Weight,repetitive,1,0
+214,FRONT CLAP JACKS,Moderate,3.5,8,10,REP,Single Movement,Body Weight,repetitive,1,0
+215,ARM RAISE WITH TOE TAPS,Easy,2.8,5,12,REP,Single Movement,Body Weight,repetitive,1,0
+216,CROSS BODY TOE TOUCH,Easy,2.8,4,14,REP,Single Movement,Body Weight,repetitive,1,0
+217,SPLIT JACKS,Easy,2.8,4,8,REP,Single Movement,Body Weight,repetitive,1,0
+218,SQUAT WITH KNEE KICKS,High,6,4,14,REP,Single Movement,Body Weight,repetitive,1,0
+219,HEEL TAP HOPS,Easy,2.8,4,8,REP,Single Movement,Body Weight,repetitive,1,0
+220,LEG SWING,Easy,2.8,5,16,REP,Double Movement,Body Weight,repetitive,1,1
+221,PLANK JUMP INS,High,6,4,9,REP,Single Movement,Body Weight,repetitive,1,0
+222,PUSH UPS (WITH MEDICINE BALL),Moderate,5,4,11,REP,Single Movement,Dumbell/Barbell/Gym,repetitive,1,0
+223,STABILITY BALL KNEE TUCKS,High,6,4,12,REP,Single Movement,Dumbell/Barbell/Gym,repetitive,1,0
+224,SEATED SPRINTER ARM ACTION,Moderate,5,5,5,TIME,Single Movement,Body Weight,repetitive,1,0
+226,DYNAMIC HIP FLEXOR STRETCH,Easy,2.5,1,20,REP,Single Movement,Body Weight,follow,0,0
+227,RUNNER LUNGE WITH HOP,High,6,4,12,REP,Single Movement,Body Weight,repetitive,1,0
+228,RUNNER LUNGE WITH ROTATIONS,High,6,3,18,REP,Double Movement,Body Weight,repetitive,1,1
+229,STABILITY BALL BRIDGES,Moderate,5,4,18,REP,Single Movement,Dumbell/Barbell/Gym,repetitive,1,0
+230,STABILITY BALL PIKES,High,6,4,15,REP,Single Movement,Dumbell/Barbell/Gym,repetitive,1,0
+231,DOWNWARD DOG TO RUNNER LUNGE STRETCH,High,6,2,18,REP,Single Movement,Body Weight,repetitive,1,0
+232,SQUAT PUSH UPS,High,6,4,18,REP,Single Movement,Body Weight,repetitive,1,0
+233,KNEELING THORACIC ROTATION,Easy,2.8,2,18,REP,Single Movement,Body Weight,repetitive,1,0
+234,WORLD'S GREATEST STRETCH,High,6,2,18,REP,Double Movement,Body Weight,repetitive,1,1
+235, STABILITY BALL HAMSTRING CURL,Moderate,5,2,18,REP,Single Movement,Dumbell/Barbell/Gym,repetitive,1,0
+236,JUMPING LUNGE,High,6,4,7,REP,Single Movement,Body Weight,repetitive,1,0
+237,SHRIMP SQUAT,Moderate,5,3,11,REP,Single Movement,Body Weight,repetitive,1,1
+238,SPLIT JACKS,Moderate,3.5,4,7,REP,Single Movement,Body Weight,repetitive,1,0
+239,KNEE TO CHEST STRETCH,Easy,2.5,4,18,REP,Single Movement,Body Weight,repetitive,1,0
+240,STANDING DYNAMIC QUADRICEPS STRETCH,Easy,2.5,3,16,REP,Single Movement,Body Weight,repetitive,1,0
+241,STANDING FIGURE FOUR STRETCH,Easy,2.5,1,16,REP,Single Movement,Body Weight,repetitive,1,1
+242,CRESCENT TO HAMSTRING STRETCH,Easy,2.5,1,18,REP,Single Movement,Body Weight,repetitive,1,1
+243,STANDING CALF AND HAMSTRING STRETCH,Easy,2.5,3,15,REP,Single Movement,Body Weight,repetitive,1,0
+244,SHOULDER PULL THROUGHS (HOLLOW ROD),Easy,2.5,4,18,REP,Single Movement,Dumbell/Barbell/Gym,repetitive,1,0
+245,AROUND THE WORLD (HOLLOW ROD),Easy,2.5,2,18,REP,Single Movement,Dumbell/Barbell/Gym,repetitive,1,0
+246,KICK WITH HAND TAPS,Moderate,5,4,14,REP,Single Movement,Body Weight,repetitive,1,1
+247,STANDING SIDE TWIST  (WARM UP),Easy,2.8,5,13,REP,Single Movement,Body Weight,repetitive,1,0
+248,STANDING SIDE BEND  (WARM UP),Easy,2.8,4,14,REP,Single Movement,Body Weight,repetitive,1,0
+249,ARM CRISS CROSS  (WARM UP),Easy,2.5,4,12,REP,Single Movement,Body Weight,repetitive,1,0
+250,DUMBBELL SQUAT TO PRESS,High,6,4,12,REP,Single Movement,Dumbell/Barbell/Gym,repetitive,1,0
+251,LATERAL STEP TO OVER HEAD REACH,Moderate,5,2,12,REP,Double Movement,Body Weight,repetitive,1,1
+252,NECK SIDE WAYS STRETCH,Easy,2.5,1,10,REP,Single Movement,Body Weight,repetitive,1,0
+253,NEK UP AND DOWN STRETCH,Easy,2.5,1,10,REP,Single Movement,Body Weight,repetitive,1,0
+254,NECK LATERAL STRETCH,Easy,2.5,1,10,REP,Single Movement,Body Weight,repetitive,1,0
+255,SHOULDER STRETCH,Easy,2.5,1,15,REP,Single Movement,Body Weight,repetitive,1,0
+256,FOREARM STRETCH,Easy,2.5,1,15,REP,Single Movement,Body Weight,repetitive,1,0
+257,LYING FIGURE-4 STRETCH,Easy,2.5,1,20,REP,Single Movement,Body Weight,follow,0,0
+258,SUPINE QUDRICEPS / HIP FLEXOR STRETCH,Easy,2.5,1,27,REP,Single Movement,Body Weight,follow,0,0
+259,HANDS BEHIND BACK STRETCH,Easy,2.5,1,15,REP,Single Movement,Body Weight,follow,0,0
+260,LYING GLUTE STRETCH,Easy,2.5,1,15,REP,Single Movement,Body Weight,follow,0,0
+261,CHIN-UPS,High,6,5,15,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+262,PULL-UPS,High,6,4,12,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+263,NEUTRAL GRIP CHIN-UPS,High,6,4,12,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+264,PARALLEL BAR DIPS,High,6,4,8,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+265,HANGING LEG RAISE,Moderate,5,4,9,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+266,HANGING LEG RAISE WITH TWIST,Moderate,5,4,18,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+267,HANGING KNEE RAISE,Moderate,5,4,9,REP,Single Movement,Dumbell/Barbell/Gym,follow,0,0
+268,LATERAL JUMPS (WITH CONES),High,6,3,12,REP,Single Movement,Body Weight,follow,1,0
+269,FOWARD CONE JUMPS,High,6,1,16,REP,Single Movement,Body Weight,follow,0,0
+270,LATERAL CONE JUMPS,High,6,1,8,REP,Single Movement,Body Weight,follow,0,0
+271,LATERAL SHUFFLES (WITH CONES),High,6,2,10,REP,Single Movement,Body Weight,follow,0,0
+272,HIGH KNEE FOWARD,High,6,1,10,REP,Single Movement,Body Weight,follow,0,0
+273,BUTT KICKERS FORWARD,Moderate,5,1,12,REP,Single Movement,Body Weight,follow,0,0
+274,REVERSE RUN,High,6,1,18,REP,Single Movement,Body Weight,follow,0,0
+275,DIAGONAL JUMPS AND REVERSE RUN DRILLS,High,6,1,12,REP,Single Movement,Body Weight,follow,0,0
+276,FROG JUMPS FORWARD,High,6,4,7,REP,Single Movement,Body Weight,follow,0,0
+277,BURPEES (WITH PUSH-UPS),High,6,4,13,REP,Single Movement,Body Weight,repetitive,1,0
+278,HALF KNEELING HAMSTRING STRETCH,Easy,2.5,1,20,REP,Single Movement,Body Weight,repetitive,1,1
+279,INVERTED V STRETCH,Easy,2.5,1,15,REP,Single Movement,Body Weight,repetitive,1,0
+280,JUMP SQUAT,High,6,5,10,REP,Single Movement,Body Weight,repetitive,1,0
+281,KNEE UP TO T RAISE,Moderate,5,2,23,REP,Double Movement,Body Weight,repetitive,1,1
+282,MOUNTAIN CLIMBER  (WITH TAPS),High,6,12,12,REP,Single Movement,Body Weight,repetitive,1,0
+283,PLANK,Moderate,5,10,10,TIME,Single Movement,Body Weight,repetitive,1,0
+284,SIDE PLANK,High,6,20,20,TIME,Double Movement,Body Weight,repetitive,1,1
+285,SINGLE HAND PLANK,High,6,20,20,TIME,Double Movement,Body Weight,repetitive,1,1
+286,STATIONERY LUNGES,High,6,5,20,REP,Single Movement,Body Weight,repetitive,1,1
+287,PUSH-UPS,High,6,4,12,REP,Single Movement,Body Weight,repetitive,1,0
+288,TRICEP DIPS,Moderate,5,4,11,REP,Single Movement,Body Weight,repetitive,1,0
+289,HAND CHANGE,Nil,0,NA,NA,NA,NA,NA,NA,,
+290,LEG CHANGE,Nil,0,NA,NA,NA,NA,NA,NA,,
+291,BREATHING EXERCISES OR PRANAYAM,Easy,2.8,NA,NA,NA,NA,Body Weight,yoga free workout video,,
+292,EXERCISES FOR DIABETES,Moderate,3,NA,NA,NA,NA,Body Weight,yoga free workout video,,
+293,EXERCISES FOR HIGH BLOOD PRESSURE PROBLEM,Easy,3,NA,NA,NA,NA,Body Weight,yoga free workout video,,
+294,EXERCISES FOR INSOMNIA,Easy,3,NA,NA,NA,NA,Body Weight,yoga free workout video,,
+295,EXERCISES FOR LOWER BACK PAIN,Easy,3,NA,NA,NA,NA,Body Weight,yoga free workout video,,
+296,EXERCISES FOR NECK PAIN,Easy,2.5,NA,NA,NA,NA,Body Weight,yoga free workout video,,
+297,EXERCISES FOR PREGNANCY,Moderate,3,NA,NA,NA,NA,Body Weight,yoga free workout video,,
+298,SUN SALUTATION OR SURYANAMASKAR,High,5,NA,NA,NA,NA,Body Weight,yoga free workout video,,
+290,,,,,,,,,,,
+300,,,,,,,,,,,

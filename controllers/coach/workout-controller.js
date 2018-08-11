@@ -23,6 +23,26 @@ const workoutController = {
 
     },
 
+    searchWorkout: (req, res, next) => {
+        let query = req.query.q;
+        console.log(query);
+        let regex = new RegExp('^' + query + '$', "i");
+        Workout.find({search_name: {'$regex': query, '$options': 'i'}}).limit(5).populate({
+            path: 'exercises.exercise'
+        }).then(data => {
+            console.log(data);
+            res.json({
+                success: true,
+                data: data
+            });
+
+        }).catch(err => {
+            console.error(err);
+            next(err);
+        });
+
+    },
+
     addWorkout: (req, res, next) => {
 
         let unique = {
