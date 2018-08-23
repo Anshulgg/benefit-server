@@ -4,6 +4,7 @@ const s3 = new AWS.S3();
 import exerciseJSON from './exercises' ;
 import Exercise from '../models/exercise' ;
 import Workout from '../models/workout' ;
+import WorkoutFree from '../models/workoutFree';
 import UserWorkout from '../models/user-workout' ;
 import MealLog from "../models/meallog";
 
@@ -99,6 +100,17 @@ let workoutController = {
             return next(new Error("Could not Fetch Workout for User"));
         });
 
+    },
+
+    getFreeWorkout: (req, res, next) => {
+        WorkoutFree.find().populate('exercises.exercise').then(
+            result => {
+                res.json({
+                    success: true,
+                    data: result
+                })
+            }
+        )
     }
 
 };
