@@ -7,6 +7,7 @@ let router = express.Router();
 router.get('/exercise/list', workoutController.getExerciseList);
 router.get('/exercise/:id/url', workoutController.getSignedUrl);
 router.get('/exercise/import', workoutController.importExercises);
+router.get('/free', workoutController.getFreeWorkout);
 
 
 router.get('/user/get', workoutController.getUserDefaultWorkout);
