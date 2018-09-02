@@ -19,4 +19,23 @@ const WorkoutSchema = new mongoose.Schema({
     }]
 });
 
+WorkoutSchema.set('toJSON', {
+    virtuals: true,
+    transform: (doc, ret, options) => {
+        ret.videoCount = 0;
+
+        ret.exercises.forEach(
+            ex => {
+                ret.videoCount++;
+                if (ex.videoA) {
+                    ret.videoCount++;
+                    if (ex.videoB) {
+                        ret.videoCount++
+                    }
+                }
+            }
+        );
+    },
+});
+
 export default mongoose.model('Workout', WorkoutSchema);
